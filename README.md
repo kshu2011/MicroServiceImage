@@ -27,4 +27,5 @@ Make sure the directory given from above exists. Then the server will automatica
 
 
 UML Diagram:
-![](https://i.imgur.com/IqA4ZsI.png)
+
+![](https://i.imgur.com/PiHdKFT.png)
