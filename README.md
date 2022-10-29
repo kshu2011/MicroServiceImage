@@ -1,5 +1,9 @@
 Instructions on how to use:
 
+Note: Will need to enable Google Custom Search API. Instructions can be found here:
+https://pypi.org/project/Google-Images-Search/
+
+
 The microservice consist of two python files: 
 image_server.py: this is the "server"
 google_img_search.py: this takes care of searching/downloading image from google.
