@@ -20,3 +20,7 @@ multnomah falls;oregon;1;//Users//NewUser//Desktop//images_downloaded
 
 How to RECEIVE data:
 Make sure the directory given from above exists. Then the server will automatically look up images from google and download the desired number of images into that directory.
+
+
+UML Diagram:
+![](https://i.imgur.com/IqA4ZsI.png)
